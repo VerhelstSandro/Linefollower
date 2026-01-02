@@ -1,7 +1,7 @@
 # LineFollower
 
 
-![A description of my image](images/empty.png)
+![A description of my image](images/20251215_110917.jpg)
 
   
 ## specifications
