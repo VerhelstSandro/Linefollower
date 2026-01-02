@@ -6,21 +6,21 @@
   
 ## specifications
 
-microcontroller:
+microcontroller: ESP32 Wroom-32 devkit v1
 
-motors: 
+motors: 12v n20 1000rpm
 
-h-bridge:
+h-bridge: TB6612FNG
 
-sensors:
+sensors: QTR-8A
 
-batteries:
+batteries: RCR123A
 
-wireless communication:
+wireless communication: ESP32
 
 distance sensor - motors:
 
 weight:
 
-speed: 
+speed: 0.67 m/s
 
