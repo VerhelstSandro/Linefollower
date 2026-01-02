@@ -1,6 +1,6 @@
 # Proof of Concepts
 
-De proof of concepts ben ik vergeten tonen in de fysieke lessen. Ik heb wel filmpjes gemaakt van de werkende POC's.
+De proof of concepts ben ik vergeten tonen in de fysieke lessen.
 
 Bij de POC van de h brug is het enige wat niet werkt dat de linker motor niet achteruit kan draaien.
 Dit komt omdat voor die motor achteruit te laten draaien er op de h brug bij Ain2 een hoog signaal moet zijn.
