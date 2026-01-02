@@ -11,3 +11,7 @@
 4 - De linker motor gelijdelijk van stilstand tot de achterwaartse maximumsnelheid en blijft op deze snelheid draaien.
 
 5 - De rechter motor gelijdelijk van stilstand tot de achterwaartse maximumsnelheid en blijft op deze snelheid draaien.
+
+6 - Bijde Motoren gaan gelijdelijk stoppen.
+
+en repeat
